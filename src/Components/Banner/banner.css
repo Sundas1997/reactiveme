@@ -1,0 +1,28 @@
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(250, 169, 22, 0.4)), url("https://wallpaperbro.com/img/981388.jpg");
+  height: 70vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+.banner-row{
+  height: 100%;
+}
+.main-heading{
+  font-size: 300px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: -140%;
+}
+
+
+@media screen and (max-width: 600px) {
+  .main-heading{
+    font-size: 180px;
+    writing-mode: vertical-rl;
+    position: absolute;
+    top: -100%;
+  }
+
+}

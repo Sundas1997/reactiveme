@@ -1,0 +1,24 @@
+
+.header{
+}
+
+.logo.navbar-brand, .logo.navbar-brand:hover{
+  color: #FAA916;
+  font-family: 'Aclonica', sans-serif;
+}
+
+.navbar-light .navbar-nav .nav-link{
+  color: #6D676E;
+  border-bottom: 2px solid #1B1B1E;
+}
+.navbar-light .navbar-nav :hover .nav-link, .navbar-light .navbar-nav :active .nav-link{
+  color: #FAA916;
+  text-decoration: none;
+  border-bottom: 2px solid #FAA916;
+  transition: 0.4s all ease;
+}
+.navbar-toggler{
+  background-image: url('./../../assets/imgs/menu-icon.svg');
+  background-size: cover;
+  height: 2.5em;
+}
