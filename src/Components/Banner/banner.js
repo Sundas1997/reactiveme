@@ -8,8 +8,8 @@ function Banner() {
         <div className="row banner-row">
           <div className="col-md-6 col-sm-12 align-self-center ">
             <h1 className="main-heading">Rancho</h1>
-            <h2 className="animated fadeInDown">The Future Bike</h2>
-            <p className="animated fadeInDown">
+            <h2 className="animated fadeInDown delay-1s">The Future Bike</h2>
+            <p className="animated fadeInDown delay-1s">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
               ever since the 1500s, when an unknown printer took a galley of

@@ -1,6 +1,7 @@
 .banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(250, 169, 22, 0.4)), url("https://wallpaperbro.com/img/981388.jpg");
   height: 70vh;
+  width: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
